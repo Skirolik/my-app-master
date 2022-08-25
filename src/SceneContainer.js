@@ -19,14 +19,6 @@ import { angleToRadians } from "./angle";
 import * as THREE from "three";
 import { click } from "@testing-library/user-event/dist/click";
 
-// function Terrain() {
-//   return (
-//     <Plane>
-
-//     </Plane>
-//   )
-// }
-
 const SceneContainer = () => {
   const colorTexture = useTexture(
     "./textures/TexturesCom_SolarCells_1K_albedo.jpg"
