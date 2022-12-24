@@ -2,7 +2,9 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
+    "@react-three/cannon": "^6.5.0",
     "@react-three/drei": "^9.19.5",
     "@react-three/fiber": "^8.2.2",
     "@react-three/postprocessing": "^2.5.5",
